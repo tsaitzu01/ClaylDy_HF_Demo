@@ -3,7 +3,7 @@ A VR game account management system which user can log in via RFID.
 
 ### How to use this project?
 - Step 1. Prepare a ClayIDy USBto read RFID
-- Step 2. Install __.exe__ of ClayIDy
+- Step 2. Install __RFIDUSBDriver.exe__ of ClayIDy
 - Step 3. Change the correct path of project file in **MyPage.cs** <br/>
   ```
   [64] pictUser.Image = System.Drawing.Image.FromFile("C:\\Users\\User\\Downloads\\ClarIDy_HF_Demo A.4\\Photo\\男-removebg-preview.png");
